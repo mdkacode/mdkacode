@@ -6,11 +6,14 @@
   <a href="https://linkedin.com/in/mdkacode" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-mdkacode-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:mnk7.dwivedi@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://sukoonunlimited.com" target="_blank">
     <img src="https://img.shields.io/badge/SukoonUnlimited-Website-blueviolet?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/mdkacode" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-mdkacode-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -62,8 +65,8 @@ I thrive at the intersection of:
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mdkacode&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdkacode&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
@@ -94,7 +97,8 @@ I’m always excited to connect with fellow builders, founders, and technologist
 
 - 💼 [LinkedIn](https://linkedin.com/in/mdkacode)
 - 🌐 [Sukoon Unlimited](https://sukoonunlimited.com)
-- ✉️ your@email.com
+- ✉️ mnk7.dwivedi@gmail.com
+- 🐙 [GitHub](https://github.com/mdkacode)
 
 ---
 
